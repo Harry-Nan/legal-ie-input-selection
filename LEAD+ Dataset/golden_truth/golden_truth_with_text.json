@@ -4030,11 +4030,11 @@
               "text": "De burgemeester van Rotterdam"
             },
             {
-              "label": "Rechtshandeling",
+              "label": "Rechtsobject",
               "text": "vergunning"
             },
             {
-              "label": "Rechtsobject",
+              "label": "Rechtshandeling",
               "text": "verleend"
             }
           ]
@@ -5914,7 +5914,7 @@
               "text": "Het college van de Onafhankelijke Post en Telecommunicatie Autoriteit"
             },
             {
-              "label": "Rechtsobject",
+              "label": "Rechtshandeling",
               "text": "legt"
             },
             {
@@ -11073,11 +11073,11 @@
               "text": "Autoriteit Persoonsgegevens"
             },
             {
-              "label": "Rechtshandeling",
+              "label": "Rechtsobject",
               "text": "vergunning"
             },
             {
-              "label": "Rechtsobject",
+              "label": "Rechtshandeling",
               "text": "verlening"
             }
           ]
@@ -13712,7 +13712,7 @@
               "text": "verlenen"
             },
             {
-              "label": "Rechtshandeling",
+              "label": "Besluitvormend Orgaan",
               "text": "Gedeputeerde Staten van Drenthe"
             },
             {
@@ -16570,11 +16570,11 @@
               "text": "De minister van Onderwijs, Cultuur en Wetenschap"
             },
             {
-              "label": "Rechtshandeling",
+              "label": "Rechtsobject",
               "text": "subsidie"
             },
             {
-              "label": "Rechtsobject",
+              "label": "Rechtshandeling",
               "text": "wijzig"
             }
           ]
@@ -19435,11 +19435,11 @@
               "text": "De burgemeester van Rotterdam"
             },
             {
-              "label": "Rechtshandeling",
+              "label": "Rechtsobject",
               "text": "vergunning"
             },
             {
-              "label": "Rechtsobject",
+              "label": "Rechtshandeling",
               "text": "verleend"
             }
           ]
