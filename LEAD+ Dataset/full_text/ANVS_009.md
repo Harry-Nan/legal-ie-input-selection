@@ -1,0 +1,71 @@
+<!-- image -->
+
+## MINISTERIE VAN SOCIALE ZAKEN EN WERKGELEGENHEID
+
+AI/IO/BES No. 2005/101125
+
+## DE STAATSSECRETARIS VAN SOCIALE ZAKEN EN WERKGELEGENHEID
+
+Mede namens de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
+
+Gezien het de brief d.d. 29 november 2005 van Ripa B.V. te Son strekkende tot het intrekken van een vergunning als bedoeld in hoofdstuk 4, artikel 23 van het Besluit stralingsbescherming; Gelet op de d.d. 14 juli 2000, onder nr. 2000/38259, AI/CK/B/KEW, verleende vergunning;
+
+Overwegende, dat van bovengenoemde vergunning geen gebruik meer zal worden gemaakt.
+
+## B E S L U I T :
+
+De aan Neways Huizen B.V., Botterstraat 45 te Huizen, verleende vergunning d.d. 14 juli 2000, nr. 2000/38259,voor het verrichten van handelingen met een ioniserende straling uitzendende toestel, wordt hierbij ingetrokken.
+
+Van het intrekken van de bovengenoemde vergunning wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+'s-Gravenhage, 29 december 2005 de Staatssecretaris van Sociale Zaken en Werkgelegenheid, namens deze: de Directeur Inspectieondersteuning,
+
+## D. Wallenburg
+
+Arbeidsinspectie
+
+## AANTEKENEN
+
+Ripa B.V.
+
+Science Park Eindhoven 5010
+
+5692 EA  SON
+
+Uw brief
+
+29 november 2005
+
+Onderwerp
+
+Besluit stralingsbescherming;
+
+intrekking vergunning Ons kenmerk AI/IO/BES/ac nr. 2005/101125
+
+Datum
+
+29 december 2005
+
+Directie Inspectieondersteuning
+
+Afdeling Beschikkingen
+
+Postbus 90801 2509 LV Den Haag Anna van Hannoverstraat 4 Telefoon (070)   333 44 44 Telefax (070)   333 40 41
+
+Doorkiesnummer
+
+(070) 333 5535
+
+Contactpersoon Naar aanleiding van de desbetreffende brief met betrekking tot het intrekken van een vergunning ingevolge het Besluit stralingsbescherming, doe ik u hierbij, mede namens de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, mijn beschikking onder datum en nummer als deze toekomen.
+
+Ik maak u erop attent dat ingevolge artikel 50 van de Kernenergiewet, de bepalingen van hoofdstuk 20 van de Wet milieubeheer op de onderhavige beschikking van toepassing zijn.
+
+Dit houdt onder meer in dat de beschikking pas van kracht wordt met ingang van 6 weken na de dag van verzending van de beschikking.
+
+Overeenkomstig de Algemene wet bestuursrecht kan tegen dit besluit bezwaar worden gemaakt. Daartoe moet binnen zes weken na de datum van de verzending van dit besluit een bezwaarschrift worden ingediend bij de Staatssecretaris van Sociale Zaken en Werkgelegenheid, t.a.v. de Arbeidsinspectie, afdeling Juridische Zaken, Postbus 90801, 2509 LV 's-Gravenhage.
+
+In het bezwaarschrift moet worden aangegeven waarom het besluit niet juist gevonden wordt. Verzocht wordt bij het bezwaarschrift een kopie van deze brief en eventuele andere op de zaak betrekking hebbende stukken te voegen.
+
+de Staatssecretaris van Sociale Zaken en Werkgelegenheid, namens deze: de Directeur Inspectieondersteuning,
+
+## D. Wallenburg
